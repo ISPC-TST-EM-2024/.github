@@ -21,7 +21,7 @@ El dictado de la misma estara a cargo de quien suscribe: Profesor Cristian Gonza
 ## Programa Sintetico  
 
 ### Unidad I (6 semanas) – 
-•	Contenidos: Fundamentos de circuitos y electrónica, Simulación y diseño electrónico, Circuitos digitales y álgebra de Boole, Registros y Memorias, CPLD, FPGA y lenguaje VHDL, Microcontroladores y lenguaje assembler, Plataformas de desarrollo y lenguajes de alto nivel.  
+**Contenidos: Fundamentos de circuitos y electrónica, Simulación y diseño electrónico, Circuitos digitales y álgebra de Boole, Registros y Memorias, CPLD, FPGA y lenguaje VHDL, Microcontroladores y lenguaje assembler, Plataformas de desarrollo y lenguajes de alto nivel.**  
 
 •	Semana 1 (8 abril - 14 abril): Introducción a los fundamentos de circuitos y electrónica.  
 •	Semana 2 (15 abril - 21 abril): Simulación y diseño electrónico.  
